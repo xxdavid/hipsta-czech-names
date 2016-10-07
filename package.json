@@ -1,0 +1,10 @@
+{
+  "name": "hipsta-czech-names",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Pavlí",
+  "license": "MIT",
+  "dependencies": {
+    "xregexp": "^3.1.1"
+  }
+}
